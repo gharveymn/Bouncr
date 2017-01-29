@@ -1,0 +1,16 @@
+<resources>
+    <string-array name="photo_dialog_options">
+        <item>Pick a Photo</item>
+        <item>Take a Photo</item>
+    </string-array>
+    <string name="checkin">Check in</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string-array name="option_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+    </string-array>
+</resources>
